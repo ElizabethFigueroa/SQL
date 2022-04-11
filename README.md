@@ -1,5 +1,6 @@
-# SQL
-SQL Portfolio
+# Elizabeth Figueroa's SQL Portfolio
+## Welcome to my SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out via email you have any quesitons! 
+elizabeth.figueroaef83@gmail.com
 
 SELECT COUNT(*)
 FROM "CharlotteChaze/BreakIntoTech"."netflix_titles_info"
